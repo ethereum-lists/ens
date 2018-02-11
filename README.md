@@ -1,6 +1,6 @@
 # Background
 
-This is a project which emerged after the split of MyEtherWallet and MyCrypto. For some more context see [this issue](https://github.com/MyEtherWallet/ethereum-lists/issues/432).
+This is a project which emerged from the ashes of [MyEtherWallet/ethereum-lists](https://github.com/MyEtherWallet/ethereum-lists) after the split of MyEtherWallet and MyCrypto. For some more context see [this issue](https://github.com/MyEtherWallet/ethereum-lists/issues/432).
 
 # Lists
 
@@ -24,13 +24,13 @@ This is a project which emerged after the split of MyEtherWallet and MyCrypto. F
 
 - [409H](https://github.com/409H) (409H - EtherAddressLookup)
 
-- [tayvano](https://github.com/tayvano) (tayvano - MyCrypto)
+- [tayvano](https://github.com/tayvano) (tayvano - [MyCrypto](http://mycrypto.com))
 
-- [ligi](https://github.com/ligi) (ligi - WallETH)
+- [ligi](https://github.com/ligi) (ligi - [WallETH](http://walleth.org))
 
 - You!
 
 
 # A last note
 
-This list is maintained by volunteers in the cryptocurrency community &amp; people like you around the internet. It may not always be up to date, and it may occasionally get it wrong. If you find an error or omission, please open an issue or make a PR with any corrections.
+This list is maintained by volunteers in the community &amp; people like you around the internet. It may not always be up to date, and it may occasionally get it wrong. If you find an error or omission, please open an issue or make a PR with any corrections.
