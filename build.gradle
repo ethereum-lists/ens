@@ -15,14 +15,16 @@ buildscript {
 apply plugin: "kotlin"
 apply plugin: 'application'
 
-mainClassName = "ethereum.MainKt"
+mainClassName = "org.ethereum.lists.ens.MainKt"
 
 repositories {
     jcenter()
+    maven { url 'https://jitpack.io' }
 }
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:${KOTLIN_VERSION}"
+    compile "com.github.ethereum-lists:cilib:0.1"
     compile 'com.beust:klaxon:0.30'
 }
 
